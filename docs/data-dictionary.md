@@ -1,3 +1,4 @@
+
 # Data Dictionary — `content_refresh_anonymized.csv`
 
 One row per content item (page): **30,000 rows × 44 columns**, covering **32 pseudonymized
